@@ -1,0 +1,17 @@
+#easy {
+  width: 400px;
+  height: 400px;
+  border-radius: 200px;
+  border-color: black;
+  background-color: blue;
+  font-size: 50px;
+  color: yellow;
+}
+body {
+    text-align: center;
+    background-color: yellow;
+}
+body {
+    border-style: solid;
+    border-width: 5px;
+}
